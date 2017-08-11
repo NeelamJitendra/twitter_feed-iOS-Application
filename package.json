@@ -1,0 +1,15 @@
+{
+  "name": "hashtags-pusher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Neelam Jitendra",
+  "dependencies": {
+    "pusher": "1.5.1",
+    "twit": "2.2.5"
+  }
+}
